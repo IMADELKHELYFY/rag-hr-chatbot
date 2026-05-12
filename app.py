@@ -79,7 +79,12 @@ def build_index():
     chunks = splitter.split_documents(docs)
 
     embeddings = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-2")
-    vectorstore = FAISS.from_documents(chunks, embeddings)
+    vectorstore = None
+    for chunk in chunks:
+        if vectorstore is None:
+            vectorstore = FAISS.from_documents([chunk], embeddings)
+        else:
+            vectorstore.add_documents([chunk])
     return vectorstore
 
 try:
