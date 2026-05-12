@@ -1,0 +1,91 @@
+POLITIQUE RH INTERNE — DOCUMENT DE RÉFÉRENCE
+Entreprise fictive à des fins de démonstration
+Version 2024 — Confidentiel interne
+
+========================================
+1. CONGÉS ET ABSENCES
+========================================
+
+Congés annuels
+Chaque collaborateur bénéficie de 25 jours ouvrés de congés payés par an, acquis à raison de 2,08 jours par mois travaillé. Les congés doivent être posés au minimum 2 semaines à l'avance via le portail RH en ligne. Les congés non pris au 31 décembre peuvent être reportés dans la limite de 5 jours sur l'année suivante, avec accord du manager.
+
+Congés exceptionnels
+- Mariage du collaborateur : 4 jours
+- Naissance ou adoption d'un enfant : 3 jours
+- Décès d'un parent proche (conjoint, enfant, parent) : 5 jours
+- Déménagement : 1 jour par an
+
+Arrêt maladie
+En cas d'arrêt maladie, le collaborateur doit informer son manager dans les 24 heures et transmettre le certificat médical dans les 48 heures. Les 3 premiers jours constituent un délai de carence non indemnisé par la Sécurité Sociale. L'entreprise prend en charge la subrogation à partir du 4e jour, garantissant le maintien du salaire à 100% pendant 90 jours, puis 75% jusqu'au 180e jour.
+
+========================================
+2. TÉLÉTRAVAIL
+========================================
+
+Éligibilité
+Le télétravail est accessible à tout collaborateur ayant au moins 6 mois d'ancienneté dans l'entreprise, sur des postes compatibles avec le travail à distance. Les alternants et stagiaires peuvent bénéficier du télétravail après validation de leur manager et de la RH, dans la limite de 2 jours par semaine.
+
+Organisation
+Le nombre de jours de télétravail autorisés est de 2 jours par semaine maximum, dont au moins 3 jours de présence au bureau obligatoires. Les jours de télétravail doivent être définis en accord avec le manager et communiqués à l'équipe en début de semaine. Les réunions d'équipe hebdomadaires se tiennent obligatoirement en présentiel le mardi matin.
+
+Équipement
+L'entreprise fournit un ordinateur portable. Le collaborateur est responsable de disposer d'une connexion internet stable. Une allocation mensuelle de 30€ est versée pour couvrir les frais de connexion et d'électricité lors des jours de télétravail.
+
+========================================
+3. FORMATION ET DÉVELOPPEMENT
+========================================
+
+Plan de développement individuel
+Chaque collaborateur bénéficie d'un entretien annuel de développement avec son manager, permettant de définir un plan de formation personnalisé. Ce plan est financé dans la limite de 1 500€ par an et par collaborateur.
+
+Formations internes
+L'entreprise propose une plateforme e-learning interne accessible 24h/24, incluant des formations en langues, outils digitaux, management et compétences métier. Les formations certifiantes (ex : certifications cloud AWS, Google, Microsoft) peuvent être prises en charge à 100% sur demande motivée auprès de la RH.
+
+Compte Personnel de Formation (CPF)
+Les collaborateurs peuvent mobiliser leur CPF pour des formations éligibles en dehors du temps de travail. L'entreprise peut compléter le financement CPF si la formation est alignée avec les besoins du poste.
+
+Alternants et stagiaires
+Les alternants bénéficient d'un tuteur dédié et d'un accès complet à la plateforme e-learning. Un entretien mi-parcours est organisé à 3 mois pour évaluer l'intégration et définir les objectifs de la seconde moitié de l'alternance.
+
+========================================
+4. RÉMUNÉRATION ET AVANTAGES
+========================================
+
+Politique salariale
+Les salaires sont révisés chaque année en janvier, sur la base des entretiens d'évaluation et des performances individuelles. L'augmentation moyenne en 2024 a été de 3,2%. Les collaborateurs peuvent demander un entretien salarial exceptionnel en cas de changement significatif de responsabilités.
+
+Primes
+- Prime de participation : versée en juin, basée sur les résultats de l'entreprise
+- Prime d'intéressement : versée en mars, liée aux objectifs collectifs
+- Prime de cooptation : 1 000€ versés au collaborateur dont la recommandation aboutit à un recrutement, après 3 mois d'essai du candidat recruté
+
+Avantages sociaux
+- Mutuelle d'entreprise prise en charge à 75% par l'employeur
+- Tickets restaurant : valeur faciale 10€, participation employeur 60%
+- Remboursement des transports en commun à 50%
+- Accès à une salle de sport partenaire à tarif préférentiel (30€/mois au lieu de 50€)
+
+========================================
+5. ONBOARDING ET INTÉGRATION
+========================================
+
+Parcours d'intégration
+Tout nouveau collaborateur bénéficie d'un parcours d'intégration de 4 semaines. La première semaine est consacrée à la découverte de l'entreprise, des équipes et des outils. Un buddy (parrain/marraine) est désigné pour accompagner le nouveau collaborateur pendant les 3 premiers mois.
+
+Accès aux outils
+Les accès informatiques sont configurés avant le premier jour. Le collaborateur reçoit par email ses identifiants pour le portail RH, la messagerie, la plateforme e-learning et les outils collaboratifs (Teams, SharePoint).
+
+Période d'essai
+La période d'essai est de 3 mois pour les cadres, renouvelable une fois. Pour les non-cadres, elle est de 2 mois, renouvelable une fois. À l'issue de la période d'essai, un entretien de confirmation est organisé avec le manager et la RH.
+
+========================================
+6. DIVERSITÉ ET INCLUSION
+========================================
+
+L'entreprise s'engage à garantir l'égalité des chances dans tous ses processus : recrutement, promotion, formation et rémunération. Tout acte de discrimination est passible de sanctions disciplinaires. Un référent diversité et inclusion est disponible pour tout collaborateur souhaitant signaler une situation ou obtenir conseil.
+
+========================================
+7. SANTÉ ET SÉCURITÉ AU TRAVAIL
+========================================
+
+Le Service de Santé au Travail assure un suivi médical de chaque collaborateur. Une visite médicale est organisée à l'embauche, puis tous les 2 ans. En cas de situation de souffrance au travail, un service d'écoute psychologique externe et anonyme est disponible 24h/24 au numéro : 0800 XXX XXX.
